@@ -1,0 +1,9 @@
+.cards{
+    display: flex;
+    
+}
+.image{
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-around;
+}

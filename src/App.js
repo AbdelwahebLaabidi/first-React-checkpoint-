@@ -1,4 +1,3 @@
-import './App.css';
 import Heading from './components/Heading';
 import Navbars from './components/Navbars';
 import './style.css'
